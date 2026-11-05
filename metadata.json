@@ -1,0 +1,6 @@
+{
+  "name": "Pulse News",
+  "description": "A sleek, modern news reader with live feeds, topic exploration, reader mode, text-to-speech, and offline saved stories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
